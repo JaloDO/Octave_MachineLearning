@@ -1,4 +1,4 @@
-#Machine Learning Exercises in Octave/Matlab
+## Machine Learning Exercises in Octave/Matlab
 
 
 ## Reference
